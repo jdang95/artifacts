@@ -1,0 +1,21 @@
+body{
+  background-color: black;
+  text-align:center;
+}
+
+h1{
+  color: pink;
+  font-size: 200px;
+  text-shadow: 8px 10px #ffffff;
+}
+
+h1 { 
+   font-family: 'SomeTimeLaterRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+}
+
+a{
+  color: white;
+  font-size: 100px;
+}
